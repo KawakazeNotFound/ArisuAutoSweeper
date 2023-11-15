@@ -12,6 +12,7 @@ LOGIN_CONFIRM = ButtonWrapper(
         color=(211, 215, 220),
         button=(990, 354, 1232, 506),
     ),
+    en=None,
 )
 LOGIN_LOADING = ButtonWrapper(
     name='LOGIN_LOADING',
@@ -22,6 +23,7 @@ LOGIN_LOADING = ButtonWrapper(
         color=(8, 66, 96),
         button=(34, 682, 60, 707),
     ),
+    en=None,
 )
 UPDATE = ButtonWrapper(
     name='UPDATE',
@@ -32,4 +34,5 @@ UPDATE = ButtonWrapper(
         color=(183, 192, 201),
         button=(666, 527, 872, 595),
     ),
+    en=None,
 )

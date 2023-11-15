@@ -12,6 +12,7 @@ ACCOUNT_INFO_CHECK = ButtonWrapper(
         color=(193, 201, 210),
         button=(108, 11, 235, 36),
     ),
+    en=None,
 )
 BACK = ButtonWrapper(
     name='BACK',
@@ -22,6 +23,7 @@ BACK = ButtonWrapper(
         color=(93, 118, 164),
         button=(34, 19, 81, 56),
     ),
+    en=None,
 )
 BOUNTY_CHECK = ButtonWrapper(
     name='BOUNTY_CHECK',
@@ -32,6 +34,7 @@ BOUNTY_CHECK = ButtonWrapper(
         color=(150, 164, 177),
         button=(107, 10, 158, 37),
     ),
+    en=None,
 )
 CAFE_CHECK = ButtonWrapper(
     name='CAFE_CHECK',
@@ -42,6 +45,7 @@ CAFE_CHECK = ButtonWrapper(
         color=(188, 197, 205),
         button=(264, 11, 337, 35),
     ),
+    en=None,
 )
 CIRCLE_CHECK = ButtonWrapper(
     name='CIRCLE_CHECK',
@@ -52,6 +56,7 @@ CIRCLE_CHECK = ButtonWrapper(
         color=(195, 203, 211),
         button=(107, 11, 211, 36),
     ),
+    en=None,
 )
 COMMISSIONS_CHECK = ButtonWrapper(
     name='COMMISSIONS_CHECK',
@@ -62,6 +67,7 @@ COMMISSIONS_CHECK = ButtonWrapper(
         color=(146, 160, 174),
         button=(107, 10, 158, 37),
     ),
+    en=None,
 )
 CRAFTING_CHECK = ButtonWrapper(
     name='CRAFTING_CHECK',
@@ -72,6 +78,7 @@ CRAFTING_CHECK = ButtonWrapper(
         color=(200, 208, 215),
         button=(108, 10, 214, 37),
     ),
+    en=None,
 )
 GACHA_CHECK = ButtonWrapper(
     name='GACHA_CHECK',
@@ -82,6 +89,7 @@ GACHA_CHECK = ButtonWrapper(
         color=(135, 148, 164),
         button=(159, 10, 210, 37),
     ),
+    en=None,
 )
 HOME = ButtonWrapper(
     name='HOME',
@@ -92,6 +100,7 @@ HOME = ButtonWrapper(
         color=(168, 182, 205),
         button=(1218, 8, 1253, 41),
     ),
+    en=None,
 )
 LOADING_CHECK = ButtonWrapper(
     name='LOADING_CHECK',
@@ -102,6 +111,7 @@ LOADING_CHECK = ButtonWrapper(
         color=(173, 196, 219),
         button=(1084, 659, 1120, 674),
     ),
+    en=None,
 )
 MAIL_CHECK = ButtonWrapper(
     name='MAIL_CHECK',
@@ -112,6 +122,7 @@ MAIL_CHECK = ButtonWrapper(
         color=(205, 212, 219),
         button=(108, 9, 186, 37),
     ),
+    en=None,
 )
 MAIN_GO_TO_CAFE = ButtonWrapper(
     name='MAIN_GO_TO_CAFE',
@@ -122,6 +133,7 @@ MAIN_GO_TO_CAFE = ButtonWrapper(
         color=(156, 209, 233),
         button=(81, 638, 102, 668),
     ),
+    en=None,
 )
 MAIN_GO_TO_CIRCLE = ButtonWrapper(
     name='MAIN_GO_TO_CIRCLE',
@@ -132,6 +144,7 @@ MAIN_GO_TO_CIRCLE = ButtonWrapper(
         color=(131, 204, 234),
         button=(540, 631, 583, 660),
     ),
+    en=None,
 )
 MAIN_GO_TO_CRAFTING = ButtonWrapper(
     name='MAIN_GO_TO_CRAFTING',
@@ -142,6 +155,7 @@ MAIN_GO_TO_CRAFTING = ButtonWrapper(
         color=(192, 229, 241),
         button=(665, 622, 693, 664),
     ),
+    en=None,
 )
 MAIN_GO_TO_GACHA = ButtonWrapper(
     name='MAIN_GO_TO_GACHA',
@@ -152,6 +166,7 @@ MAIN_GO_TO_GACHA = ButtonWrapper(
         color=(157, 219, 241),
         button=(900, 623, 924, 670),
     ),
+    en=None,
 )
 MAIN_GO_TO_MAIL = ButtonWrapper(
     name='MAIN_GO_TO_MAIL',
@@ -162,6 +177,7 @@ MAIN_GO_TO_MAIL = ButtonWrapper(
         color=(94, 121, 166),
         button=(1130, 29, 1156, 49),
     ),
+    en=None,
 )
 MAIN_GO_TO_MOMOTALK = ButtonWrapper(
     name='MAIN_GO_TO_MOMOTALK',
@@ -172,6 +188,7 @@ MAIN_GO_TO_MOMOTALK = ButtonWrapper(
         color=(255, 219, 227),
         button=(154, 134, 177, 158),
     ),
+    en=None,
 )
 MAIN_GO_TO_PURCHASE = ButtonWrapper(
     name='MAIN_GO_TO_PURCHASE',
@@ -182,6 +199,7 @@ MAIN_GO_TO_PURCHASE = ButtonWrapper(
         color=(172, 214, 239),
         button=(148, 204, 183, 253),
     ),
+    en=None,
 )
 MAIN_GO_TO_SCHEDULE = ButtonWrapper(
     name='MAIN_GO_TO_SCHEDULE',
@@ -192,6 +210,7 @@ MAIN_GO_TO_SCHEDULE = ButtonWrapper(
         color=(149, 194, 222),
         button=(194, 638, 216, 672),
     ),
+    en=None,
 )
 MAIN_GO_TO_SHOP = ButtonWrapper(
     name='MAIN_GO_TO_SHOP',
@@ -202,6 +221,7 @@ MAIN_GO_TO_SHOP = ButtonWrapper(
         color=(146, 208, 235),
         button=(773, 630, 816, 667),
     ),
+    en=None,
 )
 MAIN_GO_TO_TASK = ButtonWrapper(
     name='MAIN_GO_TO_TASK',
@@ -212,6 +232,7 @@ MAIN_GO_TO_TASK = ButtonWrapper(
         color=(226, 207, 203),
         button=(52, 220, 78, 248),
     ),
+    en=None,
 )
 MAIN_GO_TO_WORK = ButtonWrapper(
     name='MAIN_GO_TO_WORK',
@@ -222,6 +243,7 @@ MAIN_GO_TO_WORK = ButtonWrapper(
         color=(135, 149, 169),
         button=(1167, 605, 1241, 632),
     ),
+    en=None,
 )
 MISSION_CHECK = ButtonWrapper(
     name='MISSION_CHECK',
@@ -232,6 +254,7 @@ MISSION_CHECK = ButtonWrapper(
         color=(188, 197, 206),
         button=(108, 12, 183, 36),
     ),
+    en=None,
 )
 MOMOTALK_CHECK = ButtonWrapper(
     name='MOMOTALK_CHECK',
@@ -242,6 +265,7 @@ MOMOTALK_CHECK = ButtonWrapper(
         color=(253, 211, 219),
         button=(144, 107, 169, 130),
     ),
+    en=None,
 )
 MOMOTALK_GO_TO_MAIN = ButtonWrapper(
     name='MOMOTALK_GO_TO_MAIN',
@@ -252,6 +276,7 @@ MOMOTALK_GO_TO_MAIN = ButtonWrapper(
         color=(252, 182, 194),
         button=(1108, 105, 1134, 131),
     ),
+    en=None,
 )
 SCHEDULE_CHECK = ButtonWrapper(
     name='SCHEDULE_CHECK',
@@ -262,6 +287,7 @@ SCHEDULE_CHECK = ButtonWrapper(
         color=(188, 197, 206),
         button=(108, 12, 159, 36),
     ),
+    en=None,
 )
 SCHOOL_EXCHANGE_CHECK = ButtonWrapper(
     name='SCHOOL_EXCHANGE_CHECK',
@@ -272,6 +298,7 @@ SCHOOL_EXCHANGE_CHECK = ButtonWrapper(
         color=(134, 149, 164),
         button=(107, 11, 158, 36),
     ),
+    en=None,
 )
 SHOP_CHECK = ButtonWrapper(
     name='SHOP_CHECK',
@@ -282,6 +309,7 @@ SHOP_CHECK = ButtonWrapper(
         color=(200, 208, 215),
         button=(108, 10, 212, 36),
     ),
+    en=None,
 )
 STORY_CHECK = ButtonWrapper(
     name='STORY_CHECK',
@@ -292,6 +320,7 @@ STORY_CHECK = ButtonWrapper(
         color=(194, 203, 211),
         button=(108, 11, 157, 36),
     ),
+    en=None,
 )
 TACTICAL_CHALLENGE_CHECK = ButtonWrapper(
     name='TACTICAL_CHALLENGE_CHECK',
@@ -302,6 +331,7 @@ TACTICAL_CHALLENGE_CHECK = ButtonWrapper(
         color=(129, 145, 161),
         button=(107, 11, 133, 37),
     ),
+    en=None,
 )
 TASK_CHECK = ButtonWrapper(
     name='TASK_CHECK',
@@ -312,6 +342,7 @@ TASK_CHECK = ButtonWrapper(
         color=(189, 198, 207),
         button=(109, 12, 155, 36),
     ),
+    en=None,
 )
 WORK_CHECK = ButtonWrapper(
     name='WORK_CHECK',
@@ -322,6 +353,7 @@ WORK_CHECK = ButtonWrapper(
         color=(164, 175, 187),
         button=(107, 10, 185, 38),
     ),
+    en=None,
 )
 WORK_GO_TO_BOUNTY = ButtonWrapper(
     name='WORK_GO_TO_BOUNTY',
@@ -332,6 +364,7 @@ WORK_GO_TO_BOUNTY = ButtonWrapper(
         color=(165, 181, 208),
         button=(669, 412, 765, 436),
     ),
+    en=None,
 )
 WORK_GO_TO_COMMISSIONS = ButtonWrapper(
     name='WORK_GO_TO_COMMISSIONS',
@@ -342,6 +375,7 @@ WORK_GO_TO_COMMISSIONS = ButtonWrapper(
         color=(165, 179, 204),
         button=(655, 494, 751, 518),
     ),
+    en=None,
 )
 WORK_GO_TO_MISSION = ButtonWrapper(
     name='WORK_GO_TO_MISSION',
@@ -352,6 +386,7 @@ WORK_GO_TO_MISSION = ButtonWrapper(
         color=(165, 178, 204),
         button=(720, 160, 803, 199),
     ),
+    en=None,
 )
 WORK_GO_TO_SCHOOL_EXCHANGE = ButtonWrapper(
     name='WORK_GO_TO_SCHOOL_EXCHANGE',
@@ -362,6 +397,7 @@ WORK_GO_TO_SCHOOL_EXCHANGE = ButtonWrapper(
         color=(165, 179, 204),
         button=(641, 575, 758, 599),
     ),
+    en=None,
 )
 WORK_GO_TO_STORY = ButtonWrapper(
     name='WORK_GO_TO_STORY',
@@ -372,6 +408,7 @@ WORK_GO_TO_STORY = ButtonWrapper(
         color=(191, 201, 219),
         button=(995, 163, 1032, 197),
     ),
+    en=None,
 )
 WORK_GO_TO_TACTICAL_CHALLENGE = ButtonWrapper(
     name='WORK_GO_TO_TACTICAL_CHALLENGE',
@@ -382,4 +419,5 @@ WORK_GO_TO_TACTICAL_CHALLENGE = ButtonWrapper(
         color=(159, 174, 200),
         button=(1012, 535, 1151, 562),
     ),
+    en=None,
 )

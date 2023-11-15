@@ -12,6 +12,7 @@ MAIL_RECEIVE = ButtonWrapper(
         color=(174, 151, 53),
         button=(1043, 640, 1226, 701),
     ),
+    en=None,
 )
 MAIL_RECEIVED = ButtonWrapper(
     name='MAIL_RECEIVED',
@@ -22,4 +23,5 @@ MAIL_RECEIVED = ButtonWrapper(
         color=(195, 196, 196),
         button=(1085, 657, 1186, 685),
     ),
+    en=None,
 )

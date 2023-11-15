@@ -12,4 +12,5 @@ SCROLL = ButtonWrapper(
         color=(198, 214, 210),
         button=(742, 136, 1101, 671),
     ),
+    en=None,
 )

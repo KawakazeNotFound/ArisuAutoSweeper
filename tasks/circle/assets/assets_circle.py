@@ -12,4 +12,5 @@ GET_REWARD_AP = ButtonWrapper(
         color=(198, 206, 213),
         button=(543, 457, 735, 524),
     ),
+    en=None,
 )

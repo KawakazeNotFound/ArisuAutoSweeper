@@ -12,6 +12,7 @@ AFFECTION_LEVEL_UP = ButtonWrapper(
         color=(208, 223, 243),
         button=(882, 244, 1176, 476),
     ),
+    en=None,
 )
 AP_EXCEED = ButtonWrapper(
     name='AP_EXCEED',
@@ -22,6 +23,7 @@ AP_EXCEED = ButtonWrapper(
         color=(139, 153, 168),
         button=(535, 494, 746, 565),
     ),
+    en=None,
 )
 DAILY_NEWS = ButtonWrapper(
     name='DAILY_NEWS',
@@ -32,6 +34,7 @@ DAILY_NEWS = ButtonWrapper(
         color=(150, 204, 253),
         button=(1128, 89, 1156, 117),
     ),
+    en=None,
 )
 DAILY_REWARD = ButtonWrapper(
     name='DAILY_REWARD',
@@ -42,6 +45,7 @@ DAILY_REWARD = ButtonWrapper(
         color=(203, 227, 237),
         button=(920, 632, 1140, 712),
     ),
+    en=None,
 )
 GET_NEW_STUDENT = ButtonWrapper(
     name='GET_NEW_STUDENT',
@@ -52,6 +56,7 @@ GET_NEW_STUDENT = ButtonWrapper(
         color=(125, 132, 92),
         button=(934, 643, 1263, 714),
     ),
+    en=None,
 )
 GET_REWARD = ButtonWrapper(
     name='GET_REWARD',
@@ -62,6 +67,7 @@ GET_REWARD = ButtonWrapper(
         color=(230, 222, 93),
         button=(675, 623, 870, 695),
     ),
+    en=None,
 )
 GET_REWARD_SKIP = ButtonWrapper(
     name='GET_REWARD_SKIP',
@@ -72,6 +78,7 @@ GET_REWARD_SKIP = ButtonWrapper(
         color=(197, 200, 205),
         button=(1137, 34, 1243, 65),
     ),
+    en=None,
 )
 ITEM_EXPIRED = ButtonWrapper(
     name='ITEM_EXPIRED',
@@ -82,6 +89,7 @@ ITEM_EXPIRED = ButtonWrapper(
         color=(131, 145, 162),
         button=(537, 487, 742, 553),
     ),
+    en=None,
 )
 NETWORK_RECONNECT = ButtonWrapper(
     name='NETWORK_RECONNECT',
@@ -92,6 +100,7 @@ NETWORK_RECONNECT = ButtonWrapper(
         color=(78, 138, 169),
         button=(663, 467, 870, 537),
     ),
+    en=None,
 )
 NETWORK_RECONNECT_OK = ButtonWrapper(
     name='NETWORK_RECONNECT_OK',
@@ -102,4 +111,5 @@ NETWORK_RECONNECT_OK = ButtonWrapper(
         color=(91, 165, 196),
         button=(665, 468, 870, 536),
     ),
+    en=None,
 )

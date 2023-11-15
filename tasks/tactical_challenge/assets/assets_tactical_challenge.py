@@ -12,6 +12,7 @@ CHALLENGE_LOSE = ButtonWrapper(
         color=(146, 158, 173),
         button=(548, 431, 738, 499),
     ),
+    en=None,
 )
 CHALLENGE_WIN = ButtonWrapper(
     name='CHALLENGE_WIN',
@@ -22,6 +23,7 @@ CHALLENGE_WIN = ButtonWrapper(
         color=(151, 165, 180),
         button=(549, 495, 737, 563),
     ),
+    en=None,
 )
 GET_REWARD_CREDIT = ButtonWrapper(
     name='GET_REWARD_CREDIT',
@@ -32,6 +34,7 @@ GET_REWARD_CREDIT = ButtonWrapper(
         color=(215, 193, 61),
         button=(308, 360, 397, 415),
     ),
+    en=None,
 )
 GET_REWARD_DAILY = ButtonWrapper(
     name='GET_REWARD_DAILY',
@@ -42,6 +45,7 @@ GET_REWARD_DAILY = ButtonWrapper(
         color=(214, 192, 60),
         button=(307, 440, 395, 493),
     ),
+    en=None,
 )
 GOT_REWARD_CREDIT = ButtonWrapper(
     name='GOT_REWARD_CREDIT',
@@ -52,6 +56,7 @@ GOT_REWARD_CREDIT = ButtonWrapper(
         color=(203, 205, 204),
         button=(308, 358, 398, 416),
     ),
+    en=None,
 )
 GOT_REWARD_DAILY = ButtonWrapper(
     name='GOT_REWARD_DAILY',
@@ -62,6 +67,7 @@ GOT_REWARD_DAILY = ButtonWrapper(
         color=(203, 203, 204),
         button=(307, 439, 397, 494),
     ),
+    en=None,
 )
 OCR_TICKET = ButtonWrapper(
     name='OCR_TICKET',
@@ -72,6 +78,7 @@ OCR_TICKET = ButtonWrapper(
         color=(200, 202, 204),
         button=(206, 479, 240, 499),
     ),
+    en=None,
 )
 PLAYER_SELECT_FIRST = ButtonWrapper(
     name='PLAYER_SELECT_FIRST',
@@ -82,6 +89,7 @@ PLAYER_SELECT_FIRST = ButtonWrapper(
         color=(191, 202, 207),
         button=(558, 179, 1118, 282),
     ),
+    en=None,
 )
 PLAYER_SELECT_SECOND = ButtonWrapper(
     name='PLAYER_SELECT_SECOND',
@@ -92,6 +100,7 @@ PLAYER_SELECT_SECOND = ButtonWrapper(
         color=(192, 203, 208),
         button=(554, 336, 1127, 443),
     ),
+    en=None,
 )
 PLAYER_SELECT_THIRD = ButtonWrapper(
     name='PLAYER_SELECT_THIRD',
@@ -102,6 +111,7 @@ PLAYER_SELECT_THIRD = ButtonWrapper(
         color=(194, 206, 211),
         button=(557, 495, 1120, 599),
     ),
+    en=None,
 )
 PREPARE_CHALLENGE = ButtonWrapper(
     name='PREPARE_CHALLENGE',
@@ -112,6 +122,7 @@ PREPARE_CHALLENGE = ButtonWrapper(
         color=(148, 161, 175),
         button=(561, 548, 723, 598),
     ),
+    en=None,
 )
 SKIP_OFF = ButtonWrapper(
     name='SKIP_OFF',
@@ -122,6 +133,7 @@ SKIP_OFF = ButtonWrapper(
         color=(96, 137, 171),
         button=(1088, 582, 1250, 626),
     ),
+    en=None,
 )
 SKIP_ON = ButtonWrapper(
     name='SKIP_ON',
@@ -132,6 +144,7 @@ SKIP_ON = ButtonWrapper(
         color=(99, 177, 212),
         button=(1089, 581, 1250, 626),
     ),
+    en=None,
 )
 START_CHALLENGE = ButtonWrapper(
     name='START_CHALLENGE',
@@ -142,4 +155,5 @@ START_CHALLENGE = ButtonWrapper(
         color=(148, 161, 176),
         button=(1091, 635, 1246, 704),
     ),
+    en=None,
 )

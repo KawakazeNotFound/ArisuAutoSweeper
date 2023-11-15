@@ -12,6 +12,7 @@ BOX_CAFE = ButtonWrapper(
         color=(175, 181, 186),
         button=(33, 130, 1247, 569),
     ),
+    en=None,
 )
 CAFE_FIRST = ButtonWrapper(
     name='CAFE_FIRST',
@@ -22,6 +23,7 @@ CAFE_FIRST = ButtonWrapper(
         color=(111, 127, 147),
         button=(82, 152, 136, 175),
     ),
+    en=None,
 )
 CAFE_SECOND = ButtonWrapper(
     name='CAFE_SECOND',
@@ -32,6 +34,7 @@ CAFE_SECOND = ButtonWrapper(
         color=(110, 126, 146),
         button=(219, 152, 279, 175),
     ),
+    en=None,
 )
 CHANGE_CAFE_NOT_SELECTED = ButtonWrapper(
     name='CHANGE_CAFE_NOT_SELECTED',
@@ -42,6 +45,7 @@ CHANGE_CAFE_NOT_SELECTED = ButtonWrapper(
         color=(185, 193, 203),
         button=(84, 89, 178, 109),
     ),
+    en=None,
 )
 CHANGE_CAFE_SELECTED = ButtonWrapper(
     name='CHANGE_CAFE_SELECTED',
@@ -52,6 +56,7 @@ CHANGE_CAFE_SELECTED = ButtonWrapper(
         color=(82, 105, 130),
         button=(40, 87, 191, 112),
     ),
+    en=None,
 )
 CHECK_REWARD = ButtonWrapper(
     name='CHECK_REWARD',
@@ -62,6 +67,7 @@ CHECK_REWARD = ButtonWrapper(
         color=(82, 105, 129),
         button=(1086, 607, 1225, 685),
     ),
+    en=None,
 )
 CLICKABLE_TEMPLATE = ButtonWrapper(
     name='CLICKABLE_TEMPLATE',
@@ -72,6 +78,7 @@ CLICKABLE_TEMPLATE = ButtonWrapper(
         color=(79, 65, 1),
         button=(619, 332, 660, 387),
     ),
+    en=None,
 )
 GET_REWARD = ButtonWrapper(
     name='GET_REWARD',
@@ -82,6 +89,7 @@ GET_REWARD = ButtonWrapper(
         color=(159, 133, 48),
         button=(546, 494, 735, 563),
     ),
+    en=None,
 )
 GET_REWARD_CLOSE = ButtonWrapper(
     name='GET_REWARD_CLOSE',
@@ -92,6 +100,7 @@ GET_REWARD_CLOSE = ButtonWrapper(
         color=(172, 179, 188),
         button=(970, 134, 996, 160),
     ),
+    en=None,
 )
 GOT_REWARD = ButtonWrapper(
     name='GOT_REWARD',
@@ -102,6 +111,7 @@ GOT_REWARD = ButtonWrapper(
         color=(209, 210, 209),
         button=(561, 501, 718, 556),
     ),
+    en=None,
 )
 INVENTORY = ButtonWrapper(
     name='INVENTORY',
@@ -112,6 +122,7 @@ INVENTORY = ButtonWrapper(
         color=(198, 205, 213),
         button=(1130, 94, 1156, 120),
     ),
+    en=None,
 )
 MOMOTALK_CLOSE = ButtonWrapper(
     name='MOMOTALK_CLOSE',
@@ -122,6 +133,7 @@ MOMOTALK_CLOSE = ButtonWrapper(
         color=(252, 182, 194),
         button=(824, 82, 850, 108),
     ),
+    en=None,
 )
 OCR_CAFE = ButtonWrapper(
     name='OCR_CAFE',
@@ -132,6 +144,7 @@ OCR_CAFE = ButtonWrapper(
         color=(87, 107, 129),
         button=(1103, 642, 1202, 672),
     ),
+    en=None,
 )
 STUDENT_LIST = ButtonWrapper(
     name='STUDENT_LIST',
@@ -142,4 +155,5 @@ STUDENT_LIST = ButtonWrapper(
         color=(145, 157, 172),
         button=(545, 423, 738, 495),
     ),
+    en=None,
 )
